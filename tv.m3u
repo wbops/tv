@@ -210,9 +210,9 @@ http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",纬来体育台
 http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv1
-http://111.9.163.109:9901/tsfile/live/0001_1.m3u8
+https://stream1.freetv.fun/96897899a4d48e204bd9033ea6a454d24798bb63aa3179e88f943899e604bdf8.ctv
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv1
-http://cssbyd.imwork.net:8082/hls/1/index.m3u8
+https://stream1.freetv.fun/cctv1-74.ctv
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv2
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 
