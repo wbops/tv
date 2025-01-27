@@ -1,0 +1,247 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="FASHIONTV" tvg-id="55949" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/01/14/large/20160114184940777689_52.png" group-title="Fashion",[BD]fashiontv asia
+https://stream1.freetv.fun/d19bb027d41cab00a6c83b167269b6715be6e9d930c985c4e6fb5486496e9ff9.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-id="55949" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="Fashion",[VGA]fashion czech slovak
+https://stream1.freetv.fun/3f134c5dd3633f9e49f789787ff9cc6da8a96684625bfea75efab2386b89106b.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-id="55949" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="Fashion",[HD]fashion finds
+https://stream1.freetv.fun/cd20cf27789ddbacb38c83494c2f9e600894cb3935add8051d2a4062be47e456.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-id="55949" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="Fashion",[BD]fashion tv1
+https://stream1.freetv.fun/e1bfde7671b19a3cd26cfe0ad3ea9c5c56f6c2bb042cbad06c5ea30c428e04ab.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-id="55949" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="Fashion",[BD]fashion tv2
+https://stream1.freetv.fun/8352afc8c658818733b75985c4f691e617bb076ea915b07761dac0c44876d066.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-id="55949" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="Fashion",[BD]fashion tv3
+https://stream1.freetv.fun/016e9d73d68c84070ece9dfc1c7278c279fb6653e6a29a20d39b1e83255b51b1.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-id="55949" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="Fashion",[BD]fashion tv uhd
+https://stream1.freetv.fun/b26405f61be3b79be99728ec6d985737a518eacda849bd4284ed818a521d16fd.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-id="55949" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="Fashion",[BD]fashion tv
+https://stream1.freetv.fun/971b30d1f3c3082bb5123116aa559d87460e11568085adba0c226d9bb10528c7.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-id="55949" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="Fashion",[BD]fashion tv
+https://stream1.freetv.fun/6ed007c1b3eb9ce9244ec1f0bb5460f43150e506cc4ebe7ad5d19d5df08f64a3.m3u8
+#EXTINF:-1 tvg-name="Fashion World" tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/03/03/large/20200303232008412011_84.png" group-title="Fashion",[HD]world fashion
+https://stream1.freetv.fun/ab695928fcd78f8b348a8c1e9e38dc23643c29e5a7539f81705e495cdd388bc7.m3u8
+#EXTINF:-1 tvg-name="BFM Business" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722023356555432_88.jpg" group-title="French",[BD]bfm business
+https://stream1.freetv.fun/d4a69928c8e2a54857c7c61981350df03786600da04c19b1d3d3b36bd545082b.m3u8
+#EXTINF:-1 tvg-name="BFM TV (FR)" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821105035822912_56.jpg" group-title="French",[BD]bfm tv[geo-blocked]
+https://stream1.freetv.fun/39595fafb094b6e55e51b0fc95c59387ad295c02bb5cf8aa4dfd64e9b08311d0.m3u8
+#EXTINF:-1 tvg-name="BFM TV France" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601215520126815_69.png" group-title="French",[BD]bfm paris île-de-france
+https://stream1.freetv.fun/a2c9b9e6634782df4a6085190e2b299f3dfa59c9217eda7ac1662a12852eae48.m3u8
+#EXTINF:-1 tvg-name="Canal 9 HD" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174853139444_50.png" group-title="French",[HD]canal 40 caucete
+https://stream1.freetv.fun/b9856427153d44dc83699b8678986ea1ea1bb99adb838cb99ef021fc2c243fff.m3u8
+#EXTINF:-1 tvg-name="Cine plus Premier HD" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722031050468187_95.png" group-title="French",[VGA]viju plus premiere[geo-blocked]
+https://stream1.freetv.fun/7da16a9966ba3d00558177304f4980321d98b42202aa7dce25460880a9ad080d.ctv
+#EXTINF:-1 tvg-name="DIEU TV" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173820438012_69.png" group-title="French",[BD]dieu tv
+https://stream1.freetv.fun/49152e4f5ab3b2ac3f2c5f9f8844efabeaec32e1c0d4f792813459a680429555.m3u8
+#EXTINF:-1 tvg-name="EuroNews Deutsch" tvg-id="" tvg-country="France" tvg-language="German" tvg-logo="https://epg.pw/media/images/channel/2022/04/19/large/20220419001723583092_21.png" group-title="French",[HD]euronews[geo-blocked]
+https://stream1.freetv.fun/1fea3b77534dbe1dc8cd996e0dcf934cff93a8d7ef1b4e69cdda3b15b1505d75.m3u8
+#EXTINF:-1 tvg-name="EuroNews French" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/04/18/large/20220418232357149030_61.png" group-title="French",[HD]euronews fr
+https://stream1.freetv.fun/eff229fe19c2bf5606f84aade3c22396d75b913a2815d5b16f99c75bd3b5c79e.m3u8
+#EXTINF:-1 tvg-name="EuroNews French" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/04/18/large/20220418232357149030_61.png" group-title="French",[HD]euronews fr[geo-blocked]
+https://stream1.freetv.fun/f969ecf12208d73737f50193bb28f58a146e2145d653ca1f9ba4b8f76cd69de6.m3u8
+#EXTINF:-1 tvg-name="Euronews EN" tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415222143362947_72.png" group-title="French",[HD]euronews live
+https://stream1.freetv.fun/91c637bd4145d57d8103b1249a9e7b7a0acae0b17683ea5cc9699278a018d340.m3u8
+#EXTINF:-1 tvg-name="Fashion World" tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/03/03/large/20200303232008412011_84.png" group-title="Fashion",[BD]world fashion en
+https://stream1.freetv.fun/85e22d38728080507d9f861eec46137ca7000601b06c351a84a64cc6aef23628.m3u8
+#EXTINF:-1 tvg-name="France 24 (French)" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821104841185612_92.png" group-title="French",[BD]france 24 french
+https://stream1.freetv.fun/0d8c0fb4d80987b70b107b9c3b2a95deace4aff2d3dfa3dc62866db9ac8decd2.m3u8
+#EXTINF:-1 tvg-name="France 24 English" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164742433382_52.png" group-title="French",[BD]france 24 english
+https://stream1.freetv.fun/17974cddcc3998fb78a274c78843a41844e9582c9eabac27c7a930eba1453427.m3u8
+#EXTINF:-1 tvg-name="France 5" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601220936665039_19.png" group-title="French",[BD]france 24 fast
+https://stream1.freetv.fun/b1b14109daab6614c285f34ef8ffeb452915292481855a785c8e4662f843258a.m3u8
+#EXTINF:-1 tvg-name="L'Equipe" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231337061445_90.png" group-title="French",[BD]l'equipe live 2
+https://stream1.freetv.fun/5ef65e35ce4b7b9766a8b38e55029eaae6af2accbab849926b11a63c3b4063ba.m3u8
+#EXTINF:-1 tvg-name="L'Equipe" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231337061445_90.png" group-title="French",[BD]l'equipe live 1
+https://stream1.freetv.fun/d9638ef99b144b41e434bd66f53e022185eeaa5f22626c2e152e35e335d3c7f0.m3u8
+#EXTINF:-1 tvg-name="Notele France" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174811825499_91.png" group-title="French",[HD]notele
+https://stream1.freetv.fun/f92910f777af0ca2272df8f6b285eb6c158e24310b4e47b99ad83a94185d345c.m3u8
+#EXTINF:-1 tvg-name="OPAL TV" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022216164366_74.png" group-title="French",[HD]coral tv
+https://stream1.freetv.fun/4dd4ead07dd65f8377d7543281bd19c99637ad8ccc7405d4a9a170c1824e3d7c.m3u8
+#EXTINF:-1 tvg-name="Planete  CI   (FR)" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821114521284614_38.png" group-title="French",[SD]big planet
+https://stream1.freetv.fun/fe33795d85ca52911787a52e9bcd75342475ec7d581d96fe93f647bacbf9bd92.m3u8
+#EXTINF:-1 tvg-name="Planete  TV (FR)" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821114321505598_16.png" group-title="French",[HD]planeta tv
+https://stream1.freetv.fun/c2bb9e6bf010d614df65fede87d1d2f25214f61d3284d9a849e28192c8df3e1a.m3u8
+#EXTINF:-1 tvg-name="RMC Decouverte" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/04/19/large/20220419000237785673_73.png" group-title="French",[BD]rmc découverte[geo-blocked]
+https://stream1.freetv.fun/9ee133ae070d767d97a1dba9a059de5593a99ed4b97f506e59b69bccce0cdf8f.m3u8
+#EXTINF:-1 tvg-name="RMC Sport France" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/" group-title="French",[HD]rmc sport 2
+https://stream1.freetv.fun/2e1fa6e51a2ea203828c06d7e379ddb87fe8adb90343092bf41e24a1cb3158cc.ctv
+#EXTINF:-1 tvg-name="RMC Sport France" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/" group-title="French",[BD]sport en france
+https://stream1.freetv.fun/4a2934394b004e7a231bced4101f894f9b386c0fcbc0dbddbd4bd051df0982cd.m3u8
+#EXTINF:-1 tvg-name="TF1" tvg-id="56025" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2020/09/28/large/20200928013841586061_33.png" group-title="French",[HD]tf1[geo-blocked]
+https://stream1.freetv.fun/9fe75ca442464eda6252b234941000da88a763ad3d7b6991502e7ec3fdf201fc.m3u8
+#EXTINF:-1 tvg-name="TF1" tvg-id="56025" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2020/09/28/large/20200928013841586061_33.png" group-title="French",[BD]tf1
+https://stream1.freetv.fun/c7702af80baa1175738c7f8cabfc202852667f7a523200bff1c8356446b55076.m3u8
+#EXTINF:-1 tvg-name="TF1 International" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/" group-title="French",[BD]tastemade international
+https://stream1.freetv.fun/5a1ac5d31055310de37d961184d4cf8c29eca150b1d8d3d5415e05438beef5c9.m3u8
+#EXTINF:-1 tvg-name="TV5 MONDE" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/img/logo/6_11.jpg" group-title="French",[BD]tv5 monde info
+https://stream1.freetv.fun/e2b043f5856642bbd6043c1da9c42d643e29607e9d919ddf5a5271cc0d469b81.m3u8
+#EXTINF:-1 tvg-name="TV5 Monde Style" tvg-id="368859" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090534778927_85.png" group-title="French",[SD]tv5
+https://stream1.freetv.fun/5cb13921a3619f25590f2070adaf4b92c5b9bda009cead82ff4636da2ab39372.ctv
+#EXTINF:-1 tvg-name="TV5Monde ASIE" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d72424a369b7ef89df33796f7933f2d9.jpg" group-title="French",[VGA]tv5monde asie sud-est[geo-blocked]
+https://stream1.freetv.fun/2eb9a7c7d5b3ce7c2b7b4af621a205bedc029402c854e40d6a1a23c5c99c1ffe.m3u8
+#EXTINF:-1 tvg-name="Tele France 1" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601224319060957_57.png" group-title="French",[BD]tele 1
+https://stream1.freetv.fun/47f784a08f275b3c1b321434234a9c3c8fdc50a3d9225c64236e4f8bcfef3ba6.m3u8
+#EXTINF:-1 tvg-name="Tele France 1" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601224319060957_57.png" group-title="French",[BD]tele 2
+https://stream1.freetv.fun/fe42003c1bb95a11ef4906440e9a7c52c9675f334d5605062dc16c2d21ca474c.m3u8
+#EXTINF:-1 tvg-name="TeleToon+ France" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/" group-title="French",[BD]teletoon plus
+https://stream1.freetv.fun/76abe68738a412502b4f621cc727fd4e2af9fd166fe6c39917d0e7219c03cb50.ctv
+#EXTINF:-1 tvg-name="TiJi" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/04/18/large/20220418235419528366_62.jpg" group-title="French",[VGA]tiji
+https://stream1.freetv.fun/86db8748cb25e42c0e52e268b0d08f88fb3640422386f057ab2b178be232474a.m3u8
+#EXTINF:-1 tvg-name="Trace Sport Stars" tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_283.jpg" group-title="French",[BD]trace sport stars
+https://stream1.freetv.fun/96fe92536ccba4facd03ed8e987e8f759f751c0963ab2294a5bcc21bc757edd8.m3u8
+#EXTINF:-1 tvg-name="Trace Sport Stars" tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_283.jpg" group-title="French",[BD]trace sports stars
+https://stream1.freetv.fun/b8463cb2534978a29321e67fb1f26a54a736eaf4638de6076ddffda6d4696efa.m3u8
+#EXTINF:-1 tvg-name="Trace Sports" tvg-id="" tvg-country="France" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601224709623811_96.png" group-title="French",[BD]trace sports star
+https://stream1.freetv.fun/b87c074835b09476fe36f575a20aa0c8da12677d93ad2f4d0980263b90f4ef0f.m3u8
+#EXTINF:-1 tvg-name="as monaco tv" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/24/20151224123109126417_37.jpg" group-title="French",[BD]tv monaco
+https://stream1.freetv.fun/4c2f8216c8b2d30b481f1e00d254d7fdb50823604cb38b47974b3160ab9cc4f5.m3u8
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",中天新聞台
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS-新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",TVBS-新聞台
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",寰宇新聞台
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",鳳凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-name="无线新闻台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",无线新闻台(北美)
+http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",鳳凰資訊
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",無線新聞台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",美亞電影台(HK)
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="東森新聞" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",東森新聞
+http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",中天亞洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠综合台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 tvg-name="千禧經典台(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",千禧經典台(HK)
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠剧集台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",翡翠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 tvg-name="娛樂新聞台(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",娛樂新聞台(HK)
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1 tvg-name="PopC" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",黃金翡翠台
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 tvg-name="中視" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",中視
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:-1 tvg-name="明珠剧集台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",明珠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel 8 HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Channel 8 HD
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Channel 5 HD
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 tvg-name="viutv 99" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",viutv 99
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+#EXTINF:-1 tvg-name="靖天電影台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",靖天電影台
+http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 tvg-name="華視" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",華視
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1 tvg-name="28 AI 智慧賽馬" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",28 AI 智慧賽馬
+http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+#EXTINF:-1 tvg-name="tvN" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",龍華電影台
+http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ROCK Action
+http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-name="龍華經典台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",龍華經典台
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+#EXTINF:-1 tvg-name="viutv6 96" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",viutv6 96
+http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel U HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Channel U HD
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Animax(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Animax(HK)
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1 tvg-name="無線衛星新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",無線衛星新聞台
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",龍華日韓台
+http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Thrill
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1 tvg-name="France 24" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",France 24
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+#EXTINF:-1 tvg-name="DW" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",DW
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+#EXTINF:-1 tvg-name="亞洲新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",亞洲新聞台
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="東方衛視國際頻道" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",東方衛視國際頻道
+http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="KIX" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",KIX
+http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Nick Jr
+http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Nickelodeon
+http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",AXN
+http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+#EXTINF:-1 tvg-name="i-Fun 動漫台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",i-Fun 動漫台
+http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+#EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",NHK World-Japan
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1 tvg-name="ZooMoo" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ZooMoo
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1 tvg-name="NHK東京総合" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",NHK東京総合
+http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Love Nature HD
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Love Nature HD
+http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Astro iQIYI" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Astro iQIYI
+http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
+#EXTINF:-1 tvg-name="Astro Xing He" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Astro Xing He
+http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Astro AEC
+http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",纬来体育台
+http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="Chinese",[BD]cctv1
+https://stream1.freetv.fun/96897899a4d48e204bd9033ea6a454d24798bb63aa3179e88f943899e604bdf8.ctv
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="Chinese",[BD]cctv1
+https://stream1.freetv.fun/cctv1-74.ctv
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="Chinese",[BD]cctv2
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="Chinese",[BD]cctv3
+https://stream1.freetv.fun/c04e20155569f99992ad7c91c691f9500436073fc46db6be76ee2441b439c074.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="Chinese",[BD]cctv4
+https://stream1.freetv.fun/b63a68be649bcafd5eb83649bff752868ac7b9809a1d7978f2f39ccaf34b84ec.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="Chinese",[BD]cctv5
+https://stream1.freetv.fun/9138775eb0cbebe37edfb3db1517178fb4ba962eaf12362d5e19dd11299d1da3.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="Chinese",[BD]cctv6
+https://stream1.freetv.fun/fe5b09b81dbdecdff1016b2aa7a56c78bb78b23c9f0cea4e3fdb85a42152fb80.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="Chinese",[BD]cctv7
+https://stream1.freetv.fun/ipv6-cctv7-24.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="Chinese",[BD]cctv8
+https://stream1.freetv.fun/cctv8-68.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="Chinese",[BD]cctv9
+https://stream1.freetv.fun/08054d835b6c99139aacd9689065cc0a0be17d0eb3ae2432b741f4537228e107.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="Chinese",[BD]cctv10
+https://stream1.freetv.fun/e378df3241e4757f60a11f94cb22433b14331b8cdcc9d7e32fcd7278a0f1de46.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="Chinese",[BD]cctv11
+https://stream1.freetv.fun/c76e885cd3b05ee0ca787dde402ac20d4a234522850b5a1bfd1b33467b5a6e73.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="Chinese",[BD]cctv12
+https://stream1.freetv.fun/5eaea0ed60ffb7769f7ac57f18f54f83ea03a8fd37a26bdeceff6e5f3d0daec0.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="Chinese",[BD]cctv13
+https://stream1.freetv.fun/cctv13-20.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="Chinese",[BD]cctv14
+https://stream1.freetv.fun/cctv14-64.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="Chinese",[BD]cctv15
+https://stream1.freetv.fun/cctv15-80.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="Chinese",[BD]cctv16
+https://stream1.freetv.fun/433cc1ecb52454181f200d9b2690c6dfe40a0974ea6379147196e1fbac278911.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="Chinese",[BD]cctv17
+https://stream1.freetv.fun/cctv17-31.m3u8
