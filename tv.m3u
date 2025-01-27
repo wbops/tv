@@ -209,41 +209,41 @@ http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",纬来体育台
 http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv1
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="Chinese",[BD]cctv1
 https://stream1.freetv.fun/96897899a4d48e204bd9033ea6a454d24798bb63aa3179e88f943899e604bdf8.ctv
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv1
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="Chinese",[BD]cctv1
 https://stream1.freetv.fun/cctv1-74.ctv
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv2
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="Chinese",[BD]cctv2
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv3
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="Chinese",[BD]cctv3
 https://stream1.freetv.fun/c04e20155569f99992ad7c91c691f9500436073fc46db6be76ee2441b439c074.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv4
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="Chinese",[BD]cctv4
 https://stream1.freetv.fun/b63a68be649bcafd5eb83649bff752868ac7b9809a1d7978f2f39ccaf34b84ec.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv5
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="Chinese",[BD]cctv5
 https://stream1.freetv.fun/9138775eb0cbebe37edfb3db1517178fb4ba962eaf12362d5e19dd11299d1da3.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv6
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="Chinese",[BD]cctv6
 https://stream1.freetv.fun/fe5b09b81dbdecdff1016b2aa7a56c78bb78b23c9f0cea4e3fdb85a42152fb80.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv7
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="Chinese",[BD]cctv7
 https://stream1.freetv.fun/ipv6-cctv7-24.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="Chinese",[BD]cctv8
 https://stream1.freetv.fun/cctv8-68.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv9
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="Chinese",[BD]cctv9
 https://stream1.freetv.fun/08054d835b6c99139aacd9689065cc0a0be17d0eb3ae2432b741f4537228e107.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv10
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="Chinese",[BD]cctv10
 https://stream1.freetv.fun/e378df3241e4757f60a11f94cb22433b14331b8cdcc9d7e32fcd7278a0f1de46.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv11
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="Chinese",[BD]cctv11
 https://stream1.freetv.fun/c76e885cd3b05ee0ca787dde402ac20d4a234522850b5a1bfd1b33467b5a6e73.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv12
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="Chinese",[BD]cctv12
 https://stream1.freetv.fun/5eaea0ed60ffb7769f7ac57f18f54f83ea03a8fd37a26bdeceff6e5f3d0daec0.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv13
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="Chinese",[BD]cctv13
 https://stream1.freetv.fun/cctv13-20.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv14
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="Chinese",[BD]cctv14
 https://stream1.freetv.fun/cctv14-64.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv15
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="Chinese",[BD]cctv15
 https://stream1.freetv.fun/cctv15-80.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv16
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="Chinese",[BD]cctv16
 https://stream1.freetv.fun/433cc1ecb52454181f200d9b2690c6dfe40a0974ea6379147196e1fbac278911.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Chinese",[BD]cctv17
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="Chinese",[BD]cctv17
 https://stream1.freetv.fun/cctv17-31.m3u8
 
 
