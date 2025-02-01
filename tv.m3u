@@ -28,27 +28,25 @@ https://stream1.freetv.fun/3d777da90db0267cc581895a0ee009c2f1f842f67b53eda3ceabf
 https://stream1.freetv.fun/97072a5c6bb5c0f6eb9099d5d6cb89031ff0487278de82beb5304775b9af7f1f.m3u8
 #EXTINF:-1 tvg-name="Fox Sports Racing" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417173126365437_36.jpg" group-title="Canada",CNN NEWS
 https://stream1.freetv.fun/f58244880dc858b5d9672faca0bbb3027be919f9f926c5080009230f3ec9f88f.m3u8
-#EXTINF:-1 tvg-name="Fox Sports Racing" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417173126365437_36.jpg" group-title="Canada",wazobia max tv nigeria
-https://stream1.freetv.fun/f0380ce4914878e50ce3396d17c4dc78846035d3751489521f838fe9bc944874.m3u8
-#EXTINF:-1 tvg-name="Global News" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png" group-title="Canada",[HD]global news halifax[geo-blocked]
-https://stream1.freetv.fun/f2b7eafe286bb02c05d7ab444a53bd70488b66ec63354df9a965572deb80f445.m3u8   
-#EXTINF:-1 tvg-name="Global News" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png" group-title="Canada",[HD]global news kingston[geo-blocked]
-https://stream1.freetv.fun/9846b6231543690a9dc6ef1bcf1049eb089eade58383e0a0d604c8e187e1f7c7.m3u8
-#EXTINF:-1 tvg-name="Global News" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png" group-title="Canada",[HD]global news national[geo-blocked]
+#EXTINF:-1 tvg-name="Global News" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png" group-title="Canada",GLOBAL NEWS national
 https://stream1.freetv.fun/eb9a36e741169feb7f35ae1f91617cfd0589a8c08a768e9375733dbd546267ca.m3u8
-#EXTINF:-1 tvg-name="Global News" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png" group-title="Canada",[HD]global news saskatoon[geo-blocked]
+#EXTINF:-1 tvg-name="Global News" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png" group-title="Canada",GLOBAL NEWS halifax
+https://stream1.freetv.fun/f2b7eafe286bb02c05d7ab444a53bd70488b66ec63354df9a965572deb80f445.m3u8   
+#EXTINF:-1 tvg-name="Global News" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png" group-title="Canada",GLOBAL NEWS kingston
+https://stream1.freetv.fun/9846b6231543690a9dc6ef1bcf1049eb089eade58383e0a0d604c8e187e1f7c7.m3u8
+#EXTINF:-1 tvg-name="Global News" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png" group-title="Canada",GLOBAL NEWS saskatoon
 https://stream1.freetv.fun/ca63e124dec685e1ac6ff5f7eb3628dd52bfe6a7662346f06ff85b271837c7e5.m3u8
-#EXTINF:-1 tvg-name="Global News" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png" group-title="Canada",[HD]global news calgary[geo-blocked]
+#EXTINF:-1 tvg-name="Global News" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png" group-title="Canada",GLOBAL NEWS calgary
 https://stream1.freetv.fun/28a4612ca5ce9e270cdb0c85562db2f98149e3461b889e08b2d71938ab639088.m3u8
-#EXTINF:-1 tvg-name="Global News" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png" group-title="Canada",[HD]global news regina[geo-blocked]
+#EXTINF:-1 tvg-name="Global News" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422035430526505_15.png" group-title="Canada",GLOBAL NEWS regina
 https://stream1.freetv.fun/85f2bc4c67aa44425190186567bb837dab46be087796793cdb5542033df37e70.m3u8
-#EXTINF:-1 tvg-name="Global News Toronto" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422040449139244_78.png" group-title="Canada",[HD]global news toronto[geo-blocked]
+#EXTINF:-1 tvg-name="Global News Toronto" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/22/large/20240422040449139244_78.png" group-title="Canada",GLOBAL NEWS toronto
 https://stream1.freetv.fun/5f065edb163df3f04108b435368d1eb0c8d91dcab1c7f0692737d89878edd259.m3u8
 #EXTINF:-1 tvg-name="Kidoodle.TV" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/04/large/20240404170413033479_56.png" group-title="Canada",[HD]kidoodle
 https://stream1.freetv.fun/c9b56985fe40ed1f3d0475662c0b9e02fcdba0db7e41905d6eddbdbe4decddf5.m3u8
-#EXTINF:-1 tvg-name="TSN4(CA)" tvg-id="405134" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/12/27/large/20241227021103734851_10.jpg" group-title="Canada",[BD]tsn
+#EXTINF:-1 tvg-name="TSN4(CA)" tvg-id="405134" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/12/27/large/20241227021103734851_10.jpg" group-title="Canada",TSN
 https://stream1.freetv.fun/023bb7943c2a21f0d43a2e421e22d2128cbd271c90db9f5e5f4779e458da4933.m3u8
-#EXTINF:-1 tvg-name="TVO kids" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119220049109204_92.png" group-title="Canada",[HD]tvo
+#EXTINF:-1 tvg-name="TVO kids" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119220049109204_92.png" group-title="Canada",TVO
 https://stream1.freetv.fun/49e3553eb9fd1756ffe6750415dcdf72675e1433dbf5643b2af25b402da30dc5.m3u8
 
 
