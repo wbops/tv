@@ -1,0 +1,71 @@
+mixed-port: 7890
+allow-lan: false
+mode: rule
+ipv6: false
+log-level: info
+external-controller: 0.0.0.0:9090
+dns:
+  enable: true
+  listen: 0.0.0.0:53
+  ipv6: false
+  default-nameserver:
+    - 223.5.5.5
+    - 114.114.114.114
+  nameserver:
+    - 223.5.5.5
+    - 114.114.114.114
+    - 119.29.29.29
+    - 180.76.76.76
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "*.lan"
+    - "*.localdomain"
+    - "*.example"
+    - "*.invalid"
+    - "*.localhost"
+    - "*.test"
+    - "*.local"
+    - "*.home.arpa"
+    - router.asus.com
+    - localhost.sec.qq.com
+    - localhost.ptlogin2.qq.com
+    - +.msftconnecttest.com
+tun:
+  enable: true
+  stack: system
+  auto-route: true
+  auto-detect-interface: true
+  dns-hijack:
+    - 114.114.114.114
+    - 180.76.76.76
+    - 119.29.29.29
+    - 223.5.5.5
+    - 8.8.8.8
+    - 8.8.4.4
+    - 1.1.1.1
+    - 1.0.0.1
+proxies:
+  - name: 雅京傲游3
+    port: 38000
+    server: vpndcjd.taliabu.site
+    type: hysteria2
+    udp: true
+    password: c0877b51-f8b0-4586-8706-ca8fd5971483
+    skip-cert-verify: true
+  - name: wbo2
+    port: 9898
+    server: 192.168.2.72
+    type: socks5
+    udp: true
+    username: d2JvOndibzAwMA==@192.168.2.72
+    password: "@192.168.2.72:"
+  - name: WangBo
+    port: 49799
+    server: 192.168.2.72
+    type: ss
+    udp: true
+    password: wbo999
+    cipher: aes-128-gcm
+
+
