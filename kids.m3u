@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 
-
-
+#EXTINF:-1 tvg-name="Universal Kids" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001937082113_33.png" group-title="Kids",[BD]Universal Kids
+https://stream1.freetv.fun/234ed9162d8ff52d647c711a0914f4ec5dac5196b847fcbc592032ffaae093b5.ctv
 
 #EXTINF:-1 tvg-name="CBC News" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001937082113_33.png" group-title="News",[BD]cbn news[geo-blocked]
 https://stream1.freetv.fun/cbn-news-1.m3u8
