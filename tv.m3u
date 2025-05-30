@@ -1,8 +1,35 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="ABC 3 Australia" tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/29/20140529194505520146_41.jpg" group-title="Generic",[HD]abc news australia
-https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+ABC NEWS
+https://wikinew.newkso.ru/wiki/ustvabcnews/mono.m3u8
+SBS
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+Discovery Channel
+http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
+FOX News
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+Animal Planet
+http://109.248.236.51/animal_planet_hd/mono.m3u8
+TLC
+https://wikinew.newkso.ru/wiki/ustvtlc/mono.m3u8
+SKY NEWS
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+Bloomberg TV
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+NatureTime
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+Love Nature
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
+History
+http://23.237.104.106:8080/USA_HISTORY/index.m3u8
+True History
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+Life Time
+https://fl3.moveonjoy.com/LIFETIME/index.m3u8
+2GB Sydney
+https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 
 
 
