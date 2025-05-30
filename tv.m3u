@@ -1,36 +1,34 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-
-#EXTINF:-1, ABC NEWS
+#EXTINF:-1 group-title="English", ABC NEWS
 https://wikinew.newkso.ru/wiki/ustvabcnews/mono.m3u8
-#EXTINF:-1, SBS
+#EXTINF:-1 group-title="English", SBS
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1, Discovery Channel
+#EXTINF:-1 group-title="English", Discovery Channel
 http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
-#EXTINF:-1, FOX News
+#EXTINF:-1 group-title="English", FOX News
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-#EXTINF:-1, Animal Planet
+#EXTINF:-1 group-title="English", Animal Planet
 http://109.248.236.51/animal_planet_hd/mono.m3u8
-#EXTINF:-1, TLC
+#EXTINF:-1 group-title="English", TLC
 https://wikinew.newkso.ru/wiki/ustvtlc/mono.m3u8
-#EXTINF:-1, SKY NEWS
+#EXTINF:-1 group-title="English", SKY NEWS
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:-1, GB News
+#EXTINF:-1 group-title="English", GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1, Bloomberg TV
+#EXTINF:-1 group-title="English", Bloomberg TV
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
-#EXTINF:-1, NatureTime
+#EXTINF:-1 group-title="English", NatureTime
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1, Love Nature
+#EXTINF:-1 group-title="English", Love Nature
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
-#EXTINF:-1, History
+#EXTINF:-1 group-title="English", History
 http://23.237.104.106:8080/USA_HISTORY/index.m3u8
-#EXTINF:-1, True History
+#EXTINF:-1 group-title="English", True History
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
-#EXTINF:-1, Life Time
+#EXTINF:-1 group-title="English", Life Time
 https://fl3.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1, 2GB Sydney
+#EXTINF:-1 group-title="English", 2GB Sydney
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
-
 
 
 
