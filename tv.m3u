@@ -1,6 +1,31 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="Sonic the Hedgehog 3", Sonic the Hedgehog 3
-https://jornexwave10.pro/file1/jgbrqyVkAa56Ai3pB9M4vHpN0vgtUmH8SALuFZ0~yXsHThFNMk1AHpH73+6ORTCoC5SY4pYbyYqUl9TCmCFzK9RIgjwt~CrDPBvMdDBzaAKrt+mSBRmXx6hwASIUxn3QzuJ1GG7ef5G~XJo2PrWru7RIvUzlhJAbm5MrxfCB3jA=/NzIw/aW5kZXgubTN1OA==.m3u8
+
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-name="ABC 3 Australia" tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/29/20140529194505520146_41.jpg" group-title="Generic",[HD]abc news australia
+https://stream1.freetv.fun/abc-news-australia-1.m3u8
+#EXTINF:-1 tvg-name="ABC Australia" tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/28/large/20200428152920288821_56.png" group-title="News",[BD]abc australia
+https://stream1.freetv.fun/abc-australia-1.ctv
+#EXTINF:-1 tvg-name="ABC NEWS 24" tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313191616421716_57.png" group-title="News",[HD]la c news 24
+https://stream1.freetv.fun/la-c-news-24-2.m3u8
+#EXTINF:-1 tvg-name="ABC TV" tvg-id="3357" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/15/large/20230115224949705896_56.png" group-title="Generic",[BD]abc tv (720p)
+https://stream1.freetv.fun/abc-tv-3.m3u8
+#EXTINF:-1 tvg-name="ABC TV" tvg-id="3357" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/15/large/20230115224949705896_56.png" group-title="Generic",[HD]abc tv (720p)
+https://stream1.freetv.fun/abc-tv-2.m3u8
+#EXTINF:-1 tvg-name="FOX Sports 502" tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/12/large/20230612231741819313_50.PNG" group-title="Sports",[BD]fox sports 502
+https://stream1.freetv.fun/fox-sports-502-1.ctv
+#EXTINF:-1 tvg-name="FOX Sports 503" tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/10/10/large/20231010231053178340_58.png" group-title="Sports",[BD]ox sports 503
+https://stream1.freetv.fun/ox-sports-503-1.ctv
+#EXTINF:-1 tvg-name="FOX Sports 504" tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720210121024350_16.png" group-title="Sports",[BD]fox sports 504
+https://stream1.freetv.fun/fox-sports-504-1.ctv
+#EXTINF:-1 tvg-name="FOX Sports 506" tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/12/large/20230612231238080012_58.png" group-title="Sports",[BD]fox sports 506
+https://stream1.freetv.fun/fox-sports-506-1.ctv
+#EXTINF:-1 tvg-name="SBS HD" tvg-id="3306" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/08/12/large/20230812000052247501_51.png" group-title="Generic",[BD]sbs 런닝맨
+https://stream1.freetv.fun/sbs-reonningmaen-1.m3u8
+#EXTINF:-1 tvg-name="Ski TV" tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/06/large/20231106225451620181_12.png" group-title="Sports",[HD]kit-tv
+https://stream1.freetv.fun/kit-tv-1.m3u8
+
+
+
 #EXTINF:-1 tvg-name="CBC News" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001937082113_33.png" group-title="Canada",CBC News
 https://stream1.freetv.fun/cbe6cc782db45561e08457b068981bcdda228726bdb8461186f27e172ff16efd.m3u8
 #EXTINF:-1 tvg-name="CBC News" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001937082113_33.png" group-title="Canada",CBN News
