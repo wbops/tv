@@ -1,4 +1,22 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 group-title="English", NickToons
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="English", Nick Jr
+https://fl3.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 group-title=v"English", Discovery Channel
+http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
+#EXTINF:-1 group-title="English", ABC NEWS
+http://109.248.236.51/animal_planet_hd/mono.m3u8
+#EXTINF:-1 group-title="English", ABC NEWS
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="English", ABC NEWS
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-name="Universal Kids" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001937082113_33.png" group-title="Kids",[BD]Universal Kids
+https://fl3.moveonjoy.com/NICK_JR/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-name="Universal Kids" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001937082113_33.png" group-title="Kids",[BD]Universal Kids
 https://stream1.freetv.fun/234ed9162d8ff52d647c711a0914f4ec5dac5196b847fcbc592032ffaae093b5.ctv
