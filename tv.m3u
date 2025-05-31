@@ -37,8 +37,10 @@ http://fl3.moveonjoy.com/National_Geographic/index.m3u8
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="English", 4K Travel
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-
-
+#EXTINF:-1 group-title="English", y1
+https://youtu.be/36YnV9STBqc
+#EXTINF:-1 group-title="English", y2
+https://youtu.be/4gGGVZOvbCs
 
 
 
