@@ -3,7 +3,16 @@
     "wallpaper": "http://api.btstu.cn/sjbz",
     "sites": [
         {
-            "key": "色猫",
+            "key": "色猫1",
+            "name": "色猫1",
+            "type": 1,
+            "api": "https://apilj.com/api.php/provide",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+		{
+
             "name": "色猫2",
             "type": 1,
             "api": "https://api.maozyapi.com/inc/apijson_vod.php",
@@ -11,10 +20,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-		{
-            "api": "https://apilj.com/api.php/provide",
-            "name": "辣椒资源黄黄"
-        },
+		
     {
       "key": "ms4nii",
       "name": "美少女",
