@@ -92,9 +92,7 @@
     {"key": "AV-黄色资源","name": "AV-黄色资源","type":1,"api": "https://hsckzy888.com/api.php/provide/vod","searchable":1,"changeable":1},
     {"key": "AV-小鸡资源","name": "AV-小鸡资源","type":1,"api": "https://api.xiaojizy.live/provide/vod","searchable":1,"changeable":1},
     {"key": "AV-细胞采集黄色","name": "AV-细胞采集黄色","type":1,"api": "https://www.xxibaozyw.com/api.php/provide/vod","searchable":1,"changeable":1},
-    {"key": "AV-大地资源","name": "🔞大地资源","type": 0,"api": "https://dadiapi.com/api.php","searchable": 1,"quickSearch": 0,"filterable": 0},
-    {"key": "51smt4.xyz","name": "51sm","type": 1,"api": "http://51smt4.xyz/api.php/provide/vod/","searchable": 1,"filterable": 1},
-    {"key": "*91麻豆②","name": "*91麻豆②","type": 1,"api": "http://bt4.cc/api.php/provide/vod/from/mdm3u8/","tag": "qb,tj,rm","categories": []}
+    {"key": "AV-大地资源","name": "🔞大地资源","type": 0,"api": "https://dadiapi.com/api.php","searchable": 1,"quickSearch": 0,"filterable": 0}
   ],
 
   "parses":[
