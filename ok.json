@@ -4,6 +4,7 @@
   "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
     {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
+    {"key":"test111","name":"test111","type":1,"api":"https://155api.com/api.php/provide/vod","searchable":1,"changeable":1,"indexs":1},
     {"key":"配置中心","name":"👨‍🍳‍配置┃中心","type":3,"api":"csp_ConfigGuard","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
     {"key":"本地播放","name":"🐼本地┃播放","type":3,"api":"csp_LocalGuard","searchable":0,"changeable":0,"indexs":0, "style":{"type":"list"}, "timeout":5},
 
