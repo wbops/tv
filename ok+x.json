@@ -60,8 +60,6 @@
     {"key": "TV-红牛资源","name": "TV-红牛资源","type":1,"api": "https://www.hongniuzy3.com/api.php/provide/vod","searchable":1,"changeable":1},
     {"key": "TV-索尼-闪电资源","name": "TV-索尼-闪电资源","type":1,"api": "https://xsd.sdzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
     {"key": "TV-非凡影视new","name": "TV-非凡影视new","type":1,"api": "https://api.ffzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
-    {"key": "TV-魔爪资源","name": "TV-魔爪资源","type":1,"api": "https://mozhuazy.com/api.php/provide/vod","searchable":1,"changeable":1},
-    {"key": "TV-魔都资源","name": "TV-魔都资源","type":1,"api": "https://www.mdzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
     {"key": "TV-新浪资源阿","name": "TV-新浪资源阿","type":1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod","searchable":1,"changeable":1},
     {"key": "AV-CK资源","name": "AV-CK资源","type":1,"api": "https://ckzy.me/api.php/provide/vod","searchable":1,"changeable":1},
     {"key": "AV-百万资源","name": "AV-百万资源","type":1,"api": "https://api.bwzyz.com/api.php/provide/vod","searchable":1,"changeable":1},
