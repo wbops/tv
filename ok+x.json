@@ -115,8 +115,8 @@
     {"key": "AV-小鸡资源","name": "AV-小鸡资源","type":1,"api": "https://api.xiaojizy.live/provide/vod","searchable":1,"changeable":1},
     {"key": "AV-细胞采集黄色","name": "AV-细胞采集黄色","type":1,"api": "https://www.xxibaozyw.com/api.php/provide/vod","searchable":1,"changeable":1},
     {"key": "AV-大地资源","name": "AV-大地资源","type": 0,"api": "https://dadiapi.com/api.php","searchable": 1,"quickSearch": 0,"filterable": 0},
-    {"key": "易看资源","name": "易看资源","type": 1,"api": "https://api.yikanapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1},
-    {"key": "f2dcj6.com","name": "成人01","type": 0,"api": "http://f2dcj6.com/sapi?ac=videolist","searchable": 1,"changeable": 1}
+    {"key": "AV-易看资源","name": "Av-易看资源","type": 1,"api": "https://api.yikanapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1},
+    {"key": "AV-成人01","name": "AV-成人01","type": 0,"api": "http://f2dcj6.com/sapi?ac=videolist","searchable": 1,"changeable": 1}
   ],
 
   "parses":[
