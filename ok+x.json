@@ -117,8 +117,8 @@
   "ads":["mozai.4gtv.tv"],
   "lives":[
     {"name":"AI直播","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","playerType":2,"timeout":10},
-    {"name":"AU","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/wbops/iptv/refs/heads/master/streams/au.m3u","playerType":2,"timeout":10},
-    {"name":"US","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/wbops/iptv/refs/heads/master/streams/us.m3u","playerType":2,"timeout":10},
+    {"name":"AU","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/au.m3u","playerType":2,"timeout":10},
+    {"name":"US","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us.m3u","playerType":2,"timeout":10},
     {"name":"范明明","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":2,"timeout":10},
     {"name":"XX","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://tvapi.wangbo.dpdns.org/x.m3u","playerType":2,"timeout":10},
     {"name":"电视Live","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&u=Gather","playerType":2,"ua": "okhttp/3.15","timeout":10},
