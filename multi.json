@@ -1,8 +1,8 @@
 {
   "urls": [
     { "url": "https://tv.wangbo.dpdns.org/ok.json", "name": "OK" },
-    { "url": "https://tv.wangbo.dpdns.org/fty.json", "name": "饭太硬" },
-    { "url": "https://tv.wangbo.dpdns.org/fm.json", "name": "肥猫" },
+    { "url": "http://www.饭太硬.net/tv", "name": "饭太硬" },
+    { "url": "http://肥猫.com", "name": "肥猫" },
     { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧计" }
     
   ]
