@@ -1,0 +1,15 @@
+{
+  "urls": [
+    { "url": "http://www.饭太硬.com/tv", "name": "饭太硬" },
+    { "url": "http://www.饭太硬.net/tv", "name": "饭太硬备用1" },
+    { "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp", "name": "饭太硬备用1" },
+    { "url": "http://ok213.top/tv", "name": "jack" },
+    { "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json", "name": "小米" },
+    {"url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/", "name": "王小二" },
+    { "url": "http://肥猫.com", "name": "肥猫" },
+    { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧计" },
+    { "url": "https://gh-proxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json", "name": "南风" },
+    { "url": "https://raw.githubusercontent.com/wbops/tv/refs/heads/main/ok.json", "name": "OK+" },
+    { "url": "https://raw.githubusercontent.com/wbops/tv/refs/heads/main/okx.json", "name": "OKX" }
+  ]
+}
