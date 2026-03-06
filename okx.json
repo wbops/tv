@@ -1440,7 +1440,7 @@
       {
             "name": "English",
             "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://garyshare.sharewithyou.dpdns.org/mylist.m3u",
+            "url": "https://garyshare.sharewithyou.dpdns.org/mylist.m3u",
             "playerType": 2,
             "timeout": 10
         },
