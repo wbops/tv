@@ -1398,7 +1398,7 @@
       {
             "name": "English",
             "type": 0,
-            "url": "http://garyshare.sharewithyou.dpdns.org/mylist.m3u",
+            "url": "https://garyshare.sharewithyou.dpdns.org/mylist.m3u",
             "playerType": 2,
             "timeout": 10
         }
