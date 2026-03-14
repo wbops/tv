@@ -9,7 +9,7 @@
     { "url": "http://肥猫.com", "name": "肥猫" },
     { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧计" },
     { "url": "https://gh-proxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json", "name": "南风" },
-    { "url": "https://raw.githubusercontent.com/wbops/tv/refs/heads/main/ok.json", "name": "OK+" }，
-    { "url": " https://mtv.wangbo.dpdns.org/api/tvbox/subscribe?token=eba6a31a80b260da8a4421d644451d67&adFilter=true", "name": "Mtv"  }
+    { "url": "https://raw.githubusercontent.com/wbops/tv/refs/heads/main/ok.json", "name": "OK+" },
+    { "url": "https://mtv.wangbo.dpdns.org/api/tvbox/subscribe?token=eba6a31a80b260da8a4421d644451d67&adFilter=true", "name": "Mtv"  }
   ]
 }
