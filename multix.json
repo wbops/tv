@@ -1,16 +1,17 @@
 {
   "urls": [
+    
+    { "url": "https://mtv.wangbo.dpdns.org/api/tvbox/subscribe?token=eba6a31a80b260da8a4421d644451d67", "name": "Mtv"  },
+    { "url": "https://mtv.wangbo.dpdns.org/api/tvbox/subscribe?token=eba6a31a80b260da8a4421d644451d67&adFilter=true", "name": "Mtv去广告"  },
     { "url": "http://www.饭太硬.com/tv", "name": "饭太硬" },
     { "url": "http://www.饭太硬.net/tv", "name": "饭太硬备用1" },
-    { "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp", "name": "饭太硬备用1" },
+    { "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp", "name": "饭太硬备用2" },
     { "url": "http://ok213.top/tv", "name": "jack" },
     { "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json", "name": "小米" },
     {"url":  "http://tvbox.xn--4kq62z5rby2qupq9ub.top/", "name": "王小二" },
     { "url": "http://肥猫.com", "name": "肥猫" },
     { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧计" },
-    { "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json", "name": "南风" },
-    { "url": "https://mtv.wangbo.dpdns.org/api/tvbox/subscribe?token=eba6a31a80b260da8a4421d644451d67", "name": "Mtv"  },
-    { "url": "https://mtv.wangbo.dpdns.org/api/tvbox/subscribe?token=eba6a31a80b260da8a4421d644451d67&adFilter=true", "name": "Mtv去广告"  }
+    { "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json", "name": "南风" }
     
   ]
 }
