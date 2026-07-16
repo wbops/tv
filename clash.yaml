@@ -1,51 +1,122 @@
+mixed-port: 7890
+allow-lan: true
+mode: rule
+log-level: info
 
-proxy-providers:
-  Fly:
-    url: "https://fly.wangbo.dpdns.org/cf?clash"
-    type: http
-    interval: 86400
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连
-
-# 节点信息
 proxies:
 
-  - name: 雅京傲游3
+  # 1. VLESS Reality Vision
+  - name: "傲游旧金山"
+    type: vless
+    server: dosf03v4.taliabu.site
+    port: 39999
+    uuid: 007b5526-a7bb-4533-bbec-0a0e80564dfb
+    udp: true
+    network: tcp
+    tls: true
+    servername: www.ucsf.edu
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: PReQojyEqUxFWT011yA5k5E01OuUuGpzxZS07ekxV0g
+      short-id: 95821529
+    flow: xtls-rprx-vision
+
+
+  # 2. VLESS Reality Vision
+  - name: "上海出境"
+    type: vless
+    server: aliyuncnsh.taliabu.site
+    port: 39999
+    uuid: 3e9175a9-47ea-40fe-e429-f53f17670d24
+    udp: true
+    network: tcp
+    tls: true
+    servername: www.taobao.com
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: SI9p1WB79cLooBLQfgjUiacwhlwP6SaOXd4KohJzSX8
+      short-id: 0438ba18
+    flow: xtls-rprx-vision
+
+
+  # 3. Hysteria2
+  - name: "雅京傲游3"
     type: hysteria2
     server: vpndcjd.taliabu.site
     port: 38000
     password: c0877b51-f8b0-4586-8706-ca8fd5971483
+    tls:
+      enabled: true
+      servername: vpndcjd.taliabu.site
+      insecure: true
+    udp: true
 
-  - name: 东城经典出国
+
+  # 4. Shadowsocks
+  - name: "东城经典出国"
     type: ss
     server: vpndcjd.taliabu.site
     port: 18888
     cipher: aes-128-gcm
     password: cCgWIyVMIToE4KcyjEYrCDf2UMtUZDQ4MNt2yjxYhq2M
+    udp: true
 
-  - name: "遨游旧金山"
-    type: vless
-    server: dosf03v4.taliabu.site
-    port: 39999
-    uuid: "007b5526-a7bb-4533-bbec-0a0e80564dfb" 
-    flow: "xtls-rprx-vision"
-    tls: true
 
-  - name: wbo2
-    type: socks5
-    server: 192.168.2.72
-    port: 9898
-    username: wbo
-    password: wbo000
-
-  - name: wangbo
+  # 5. 内网 Shadowsocks
+  - name: "WangBo"
     type: ss
     server: 192.168.2.72
     port: 49799
     cipher: aes-128-gcm
     password: wbo999
+    udp: true
 
-  - {name: 直连, type: direct}
+
+  # 6. 内网 SOCKS5
+  - name: "wbo2"
+    type: socks5
+    server: 192.168.2.72
+    port: 9898
+    username: wbo
+    password: wbo000
+    udp: true
+
+
+
+proxy-groups:
+
+  # 国外节点
+  - name: "国外代理"
+    type: select
+    proxies:
+      - 傲游旧金山
+      - 上海出境
+      - 雅京傲游3
+      - 东城经典出国
+
+
+  # 内网代理
+  - name: "内网代理"
+    type: select
+    proxies:
+      - WangBo
+      - wbo2
+      - DIRECT
+
+
+  # 总选择
+  - name: "节点选择"
+    type: select
+    proxies:
+      - 国外代理
+      - 内网代理
+
+
+
+rules:
+
+  # 局域网直连
+  - GEOIP,LAN,DIRECT
+
+  # 其他走代理
+  - MATCH,节点选择
