@@ -642,7 +642,7 @@
     ],
     "lives": [
         {
-            "name": "En",
+            "name": "En1",
             "type": 0,
             "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us.m3u",
             "playerType": 2
