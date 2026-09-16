@@ -644,7 +644,7 @@
         {
             "name": "En",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/wbops/tv/refs/heads/main/English.m3u",
+            "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_30a.m3u",
             "playerType": 2
         },
       {
